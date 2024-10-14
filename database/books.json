@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": "harry-potter-a-kamen-mudrcu",
+      "title": "Harry Potter a Kámen mudrců",
+      "author": "J. K. Rowling",
+      "year": 1997,
+      "summary": "Příběh o mladém kouzelníkovi, který objeví svou magickou identitu a bojuje proti zlému čaroději Voldemortovi.",
+      "rating": 5
+    },
+    {
+      "id": "pan-prstenu-spolecenstvo-prstenu",
+      "title": "Pán prstenů: Společenstvo prstenu",
+      "author": "J. R. R. Tolkien",
+      "year": 1954,
+      "summary": "Dobrodružství hobita Froda a jeho přátel na cestě k zničení Prstenu moci.",
+      "rating": 5
+    },
+    {
+      "id": "sto-let-samoty",
+      "title": "Sto let samoty",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "summary": "Magicko-realistický příběh rodu Buendíů v malém městě Macondo.",
+      "rating": 5
+    },
+    {
+      "id": "velky-gatsby",
+      "title": "Velký Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "summary": "Příběh o bohatství, lásce a ztrátě v období amerických „dvacátých let“.",
+      "rating": 4
+    },
+    {
+      "id": "nadherny-novy-svet",
+      "title": "Nádherný nový svět",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "summary": "Dystopický román o budoucí společnosti, kde jsou lidé geneticky předurčeni a kontrolováni.",
+      "rating": 5
+    },
+    {
+      "id": "1984",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "summary": "Dystopický příběh o totalitním režimu, který kontroluje každý aspekt života svých občanů.",
+      "rating": 5
+    },
+    {
+      "id": "pruvodce-po-galaxii-pro-stopare",
+      "title": "Průvodce po Galaxii pro stopaře",
+      "author": "Douglas Adams",
+      "year": 1979,
+      "summary": "Humoristické sci-fi dobrodružství o muži, který cestuje vesmírem po zničení Země.",
+      "rating": 4
+    },
+    {
+      "id": "maly-princ",
+      "title": "Malý princ",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "summary": "Poetický příběh o setkání malého prince s pilotem na poušti a jejich společném hledání smyslu života.",
+      "rating": 5
+    },
+    {
+      "id": "pride-and-prejudice",
+      "title": "Pýcha a předsudek",
+      "author": "Jane Austen",
+      "year": 1813,
+      "summary": "Romantický příběh o vztazích, společenských rozdílech a předsudcích v Anglii 19. století.",
+      "rating": 4
+    },
+    {
+      "id": "kdo-chyta-v-zite",
+      "title": "Kdo chytá v žitě",
+      "author": "J. D. Salinger",
+      "year": 1951,
+      "summary": "Příběh dospívajícího chlapce Holdena Caulfielda, který se snaží najít své místo ve světě.",
+      "rating": 4
+    }
+  ]
+}
