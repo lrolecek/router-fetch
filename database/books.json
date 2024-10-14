@@ -3,18 +3,18 @@
     {
       "id": "harry-potter-a-kamen-mudrcu",
       "title": "Harry Potter a Kámen mudrců",
-      "author": "J. K. Rowling",
+      "author": "Karel Vomacka",
       "year": 1997,
-      "summary": "Příběh o mladém kouzelníkovi, který objeví svou magickou identitu a bojuje proti zlému čaroději Voldemortovi.",
+      "summary": "Příběh o mladém kouzelníkovi, který objeví svou magickou identitu a bojuje proti zlému čaroději Voldemortovi. xxx\n\nneco a nejaky text",
       "rating": 5
     },
     {
       "id": "pan-prstenu-spolecenstvo-prstenu",
-      "title": "Pán prstenů: Společenstvo prstenu",
+      "title": "Pán prstenů: Nuda v Mordoru 2",
       "author": "J. R. R. Tolkien",
       "year": 1954,
       "summary": "Dobrodružství hobita Froda a jeho přátel na cestě k zničení Prstenu moci.",
-      "rating": 5
+      "rating": "3"
     },
     {
       "id": "sto-let-samoty",
